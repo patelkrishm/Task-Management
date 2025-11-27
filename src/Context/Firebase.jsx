@@ -1,7 +1,7 @@
 import { initializeApp } from "firebase/app";
 import { createContext, useContext } from 'react'
 const firebaseConfig = {
-    apiKey: "AIzaSyDtxpNm4b1JrEj9iOa9l4migIT7zkh0S34",
+    apiKey: "API_KEY",
     authDomain: "task-management-d5d6b.firebaseapp.com",
     projectId: "task-management-d5d6b",
     storageBucket: "task-management-d5d6b.firebasestorage.app",
